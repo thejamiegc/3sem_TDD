@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: TestSayHey
+Test set: DBFacadeTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 s - in TestSayHey
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.474 s - in DBFacadeTest
